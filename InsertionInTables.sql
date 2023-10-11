@@ -1,5 +1,3 @@
-
-
 INSERT INTO COUNTRY VALUES
 (101, 'United States'),
 (102, 'Netherlands'),
